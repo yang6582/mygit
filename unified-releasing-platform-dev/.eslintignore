@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+build/*.js
+config/*.js
+src/assets
+*.vue
+*.js
+=======
+*.js
+*.vue
+>>>>>>> e0ec3497d422e642b51a4b15374fdabb570fdbc7
